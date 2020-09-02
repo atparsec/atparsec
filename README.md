@@ -3,4 +3,5 @@
 Astronomy 🚀 , Astrophysics 🌌 , and programming 💻 enthusiast!<br>
 
 <i>You know the rules, and so do I 🎶<br>
-git commit git push when you modify! 🌐</i>
+git commit git push when you modify! 🌐</i><br><br>
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=at-adityavikram&show_icons=true&theme=tokyonight)](https://github.com/at-adityavikram/github-readme-stats)<br>
