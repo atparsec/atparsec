@@ -1,5 +1,5 @@
 <h2>Astronomy 🚀 and programming 💻 enthusiast!<br>
-<b>Y2 RIT Tiger🐯</b></h2>
+<b>Y3 RIT Tiger🐯</b></h2>
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=lunarcon&show_icons=true&hide_border=true&theme=github_dark)
 
