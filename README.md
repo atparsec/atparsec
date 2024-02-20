@@ -1,8 +1,11 @@
-
+<p align="center">
+  
 ![hdr](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:EEFF00,100:a82da8&text=I'm%20ADITYA%20VIKRAM&reversal=false&textBg=false&desc=Welcome%20To%20My%20Github%20Profile&descAlignY=66&fontColor=DF0000&animation=fadeIn)
 
 <h3 align="center">Astronomy 🚀 and programming 💻 enthusiast!<br>
 <b>Y3 RIT Tiger🐯</b></h3>
+
+</p>
 
 ### Find Me Here
 <p align="center">
